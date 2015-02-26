@@ -28,8 +28,7 @@ def permutations3(word):
 
 
 # How to use it:
-for p in permutations("abc"):
-    print(p)
+permutations("abc"):
 
 for p in permutations2("abc"):
     print "".join(i)
