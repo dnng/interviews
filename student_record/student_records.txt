@@ -1,0 +1,10 @@
+foo math 1
+foo1 math 1
+foo2 math 2
+foo3 math 2
+foo4 math 3
+foo5 math 4
+bar geo 2
+bar1 geo 3
+bar2 geo 3
+bar3 geo 4
